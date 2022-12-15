@@ -1,2 +1,2 @@
 # testing-razorpay
-testing razor
+testing razorpay
